@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThreadRunnable</string>
+    <string name="textview">Runnable</string>
+    <string name="button">Button</string>
+</resources>
